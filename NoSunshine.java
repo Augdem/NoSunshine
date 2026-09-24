@@ -2,24 +2,33 @@ public class NoSunshine
 {
    public static void main(String[] args)
    {
-   aint("");
-   
-   away();
-   
+   aint("It's not warm when she's away");
+   partIntro();
    
    }
    
-   public static void aint()
+   public static void aint(String text1)
+   
    {
    System.out.println("Ain't no sunshine when she's gone");
-   
-   public static void aint(String no)
-   {
-   aint();
-   System.out.println("It's not warm when she's away");
-
+   System.out.println(text1);
    
    }
+   
+   public static void partIntro()
+   
+   {
+   aint("And she's always gone too long");
+   away();
+   space();
+      
+   }
+
+   public static void space()
+   {
+   System.out.println("");
+   }
+
 
    public static void away()
    {
