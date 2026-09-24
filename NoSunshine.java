@@ -10,10 +10,10 @@ public class NoSunshine
    away();
    space();
    print("And I know, I know, I know, I know");
-   print("I know, I know, I know, I know, I know");
-   print("I know, I know, I know, I know, I know");
-   print("I know, I know, I know, I know, I know");
-   print("I know, I know, I know, I know, I know");
+   iKnow();
+   iKnow();
+   iKnow();
+   iKnow();
    print("I know, I know");
    space();
    print("Hey, I ought to leave young thing alone"); 
@@ -27,7 +27,12 @@ public class NoSunshine
    away();
    away();
    }
-
+   
+   public static void iKnow()
+   {
+   System.out.println("I know, I know, I know, I know, I know");
+   }
+   
    public static void print(String text2)
    {
    System.out.println(text2);
