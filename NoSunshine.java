@@ -4,8 +4,13 @@ public class NoSunshine
    {
    aint("It's not warm when she's away");
    partIntro();
+   System.out.println("Wonder where she's gone");
+   System.out.println("Wonder if she's gone away");
+   aint("And this house just ain't no home");
+   space();
    
    }
+   
    
    public static void aint(String text1)
    
