@@ -7,10 +7,12 @@ public class NoSunshine
    System.out.println("Wonder where she's gone");
    System.out.println("Wonder if she's gone away");
    aint("And this house just ain't no home");
-   space();
+   away();
+   System.out.println("And I know, I know, I know, I know I know, I know, I know, I know, I know I know, I know, I know, I know, I know I know, I know, I know, I know, I know I know, I know, I know, I know, I know I know, I know Hey, I ought to leave young thing alone But ain't no sunshine when she's gone, whoa-whoa Ain't no sunshine when she's gone Only darkness every day Ain't no sunshine when she's gone And this house just ain't no home Anytime she goes away Anytime she goes away Anytime she goes away Anytime she goes away");
    
+
    }
-   
+
    
    public static void aint(String text1)
    
