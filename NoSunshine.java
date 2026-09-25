@@ -41,7 +41,7 @@ public class NoSunshine
    
    {
    print("Ain't no sunshine when she's gone");
-   System.out.println(text1);
+   print(text1);
    
    }
    
