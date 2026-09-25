@@ -3,7 +3,9 @@ public class NoSunshine
    public static void main(String[] args)
    {
    aint("It's not warm when she's away");
-   partIntro();
+   aint("And she's always gone too long");
+   away();
+   space();
    print("Wonder where she's gone");
    print("Wonder if she's gone away");
    aint("And this house just ain't no home");
@@ -45,14 +47,6 @@ public class NoSunshine
    
    }
    
-   public static void partIntro()
-   
-   {
-   aint("And she's always gone too long");
-   away();
-   space();
-      
-   }
 
    public static void space()
    {
